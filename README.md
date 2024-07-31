@@ -62,6 +62,13 @@ function array.Parameters:typeof(comparison: Instance, data: {[number]: string})
 end; -- Already existing function
 ```
 
+## Functionality
+
+In below image you will see ChildrenFound (which is apart of the hidden table), you should be able to call this, next you will see HasFound being used by WaitForChild, there should be no delay between these actions, you can also see that it is using an while loop for pausing the current main task.
+
+![image](https://github.com/user-attachments/assets/6be9f80c-585c-461b-9361-53aa0616a996)
+
+
 ## Examples
 - callback: (result: Instance) -> any?)
   ```
