@@ -4,6 +4,8 @@ GetChild-.API-Module-by-orcus0
 
 ![image](https://github.com/user-attachments/assets/c6c8f173-79c4-4ba1-b6da-15210a544326)
 
+[Downloaded scripts in main can be inserted in to your game by: Right clicking Workspace and click “Insert from File”, then locate the .rbxm file and double click it]
+
 KIDNAPPING ❌ | KIDCATCHING ✅
 
 In need of finding a child? No worries! We've got you covered.
