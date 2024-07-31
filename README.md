@@ -88,3 +88,4 @@ end; -- Already existing function
         print(result) -- Prints if forceCall was bypassed.
   end;
   ```
+### Note that in the ExampleScript, print(result) is changed to warn(result) 
